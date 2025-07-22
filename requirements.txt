@@ -1,4 +1,9 @@
 streamlit==1.28.0
-tensorflow-cpu==2.15.0
+tensorflow-cpu==2.15.0  # Updated for Python 3.11 compatibility
 numpy
-pillow  # If you use image processing
+pillow==10.0.0
+requests==2.31.0
+beautifulsoup4==4.12.0
+geopy==2.3.0
+openmeteo-requests==0.1.5
+pandas==2.0.3
